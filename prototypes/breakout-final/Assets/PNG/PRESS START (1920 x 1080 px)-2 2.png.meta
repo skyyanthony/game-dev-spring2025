@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 4548ece26af2f4076bd4d7fec1463096
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7149942981336670434
+    second: PRESS START (1920 x 1080 px)-2 2_0
+  - first:
+      213: 4683549868043407213
+    second: PRESS START (1920 x 1080 px)-2 2_1
+  - first:
+      213: -7135233646565828945
+    second: PRESS START (1920 x 1080 px)-2 2_2
+  - first:
+      213: 3516790677842864519
+    second: PRESS START (1920 x 1080 px)-2 2_3
+  - first:
+      213: 4897883205445753648
+    second: PRESS START (1920 x 1080 px)-2 2_4
+  - first:
+      213: -766414705470637433
+    second: PRESS START (1920 x 1080 px)-2 2_5
+  - first:
+      213: -3633176548838819031
+    second: PRESS START (1920 x 1080 px)-2 2_6
+  - first:
+      213: -5208646729924694601
+    second: PRESS START (1920 x 1080 px)-2 2_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 3
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PRESS START (1920 x 1080 px)-2 2_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 258
+        width: 1824
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0aede6243b93360800000000000000
+      internalID: 7149942981336670434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESS START (1920 x 1080 px)-2 2_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 91
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f0e8c5acf4ff040800000000000000
+      internalID: 4683549868043407213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESS START (1920 x 1080 px)-2 2_2
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 91
+        width: 103
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa657037dce8afc90800000000000000
+      internalID: -7135233646565828945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESS START (1920 x 1080 px)-2 2_3
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 91
+        width: 103
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789aa3e1d762ec030800000000000000
+      internalID: 3516790677842864519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESS START (1920 x 1080 px)-2 2_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 91
+        width: 122
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b12f343d6c8f340800000000000000
+      internalID: 4897883205445753648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESS START (1920 x 1080 px)-2 2_5
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 91
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a79c1d2e52d55f0800000000000000
+      internalID: -766414705470637433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESS START (1920 x 1080 px)-2 2_6
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 91
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bbe20ad2d549dc0800000000000000
+      internalID: -3633176548838819031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESS START (1920 x 1080 px)-2 2_7
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 91
+        width: 122
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bda65e456b27b7b0800000000000000
+      internalID: -5208646729924694601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PRESS START (1920 x 1080 px)-2 2_0: 7149942981336670434
+      PRESS START (1920 x 1080 px)-2 2_1: 4683549868043407213
+      PRESS START (1920 x 1080 px)-2 2_2: -7135233646565828945
+      PRESS START (1920 x 1080 px)-2 2_3: 3516790677842864519
+      PRESS START (1920 x 1080 px)-2 2_4: 4897883205445753648
+      PRESS START (1920 x 1080 px)-2 2_5: -766414705470637433
+      PRESS START (1920 x 1080 px)-2 2_6: -3633176548838819031
+      PRESS START (1920 x 1080 px)-2 2_7: -5208646729924694601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
