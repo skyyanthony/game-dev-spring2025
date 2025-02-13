@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/active/Intro.unity
     guid: 2cc86cfc81222411788108f0f3b6568d
   - enabled: 1
@@ -17,10 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/active/Endless.unity
     guid: cfe5a9cb4500640baaea5991ccc9f777
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/active/Infinity.unity
     guid: 06244ee7704d24b129ddda4f28db0aaf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/active/AudioScene.unity
     guid: 881028be97a6e41399f0e5d4a4afa472
   m_configObjects:
